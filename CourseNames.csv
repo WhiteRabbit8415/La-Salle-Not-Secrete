@@ -1,0 +1,300 @@
+COURSES.Course_Number,COURSES.Course_Name
+991,1st Semester Lunch
+992,2nd Semester Lunch
+999,Lunch
+981,1st Semester Lunch 1 - 6
+982,1st Semester Lunch 1-6
+983,2nd Semester Lunch 1-6
+984,2nd Semester Lunch 1-6
+FREE,FREE
+718,Introduction to Business and Finance
+719,Personal Finance
+810,Music Theory / Improvisation Seminar
+856,Independent Advanced Chorus
+887,Advanced Ceramics 2
+893,Advanced Sculpture 2
+896,Art Portfolio 2
+1024,Networking Essentials
+1025,Introduction to Cyber Security
+1026,Cloud Fundamentals
+1051,Intro to Digital Design Online
+1052,Multimedia Journalism
+1093,Advanced Engineering Design
+1100,Group Advisory 10
+1101,Glaser Student Center Supervision
+1102,Library Supervision
+1103,Flex Duty
+1104,Writing Center NHS Tutoring
+1105,Group Advisory 9
+1106,Open Gym
+1107,Help Desk
+1108,Library Manager
+1171,College Counseling Seminar 11
+1198,Guiding their Path to Success
+HR,Freshman Homeroom
+995,9th Grade Lunch
+1199,Study Hall
+926,Phys Ed 2
+927,Phys Ed 2
+928,Phys Ed 2
+100,Religion 9
+101,Growing In Christ
+103,Understanding Christ
+105,Religion 10
+106,Religion 11
+110,Religion 12
+114,Christian Life Styles
+130,Prayer
+150,World Religions
+160,Lasallian Spirituality/Service
+202,Algebra 1
+203,Integrated Algebra 1 and Geometry
+204,Algebra 1 Y
+205,Algebra 1 Honors
+206,Integrated Algebra 1 and 2
+207,Integrated Algebra 2 and Geometry
+208,Algebra 2
+213,Algebra 2 Honors
+215,Geometry Y
+216,Geometry
+217,Geometry Summer
+220,Geometry/Precalculus Honors
+221,Algebra 2 Y
+223,Algebra 3/Trigonometry
+225,Precalculus
+229,AP Statistics
+230,Calculus
+232,AP Calculus AB
+234,AP Calculus BC
+236,Calculus 3 Honors
+237,Network Management
+245,Advanced C.A.D.
+247,Web Site Management
+250,Precalculus Honors
+252,Calculus Honors
+254,AP Calculus AB
+256,AP Calculus BC
+258,Calculus 3 H
+310,Intro To Literature & Comp
+312,Intro To Literature & Comp Y
+314,Intro To Lit & Comp Honors
+320,American Lit & Comp
+322,American Lit & Comp Honors
+330,Rhetoric & British Literature
+335,AP English Language & Comp
+340,World Literature/ Expos. Writ.
+345,AP English Lit. & Comp
+350,Creative Writing 1
+352,Creative Writing 2
+356,Baseball in Literature
+360,Poetry
+361,American Crime Fiction
+365,Shakespeare
+370,Harlem Reniassance
+375,Classic & Renaissance Lit
+376,African American Literature
+380,Public Speaking
+382,Advanced Public Speaking
+402,Spanish 1
+404,Spanish 2
+407,Spanish 2 Honors
+408,Spanish 3
+411,Spanish 3 Honors
+412,Spanish 4
+413,Spanish 4 Honors
+414,AP Spanish
+416,Spanish 5 Honors
+420,French 1
+422,French 2
+426,French 3
+427,French 3 Honors
+428,French 4
+430,French 4 Honors
+432,AP French
+434,French 5 Honors
+470,Italian 1
+471,Italian 2
+472,Italian 3
+473,Italian 3 Honors
+475,Italian 4 Honors
+476,Italian 2 Honors
+480,Latin 1
+483,Latin 2
+484,Latin 2 Honors
+485,Latin 3
+486,Latin 3 Honors
+487,AP Latin
+488,Latin 4
+489,Latin 4 Honors
+491,Chinese 1
+492,Chinese 2
+493,Chinese 3
+494,Chinese 4
+495,Chinese 4 Honors
+496,Chinese 5 Honors
+497,AP Chinese
+501,Integrated Science
+505,Biology Honors
+506,Biology
+510,Chemistry
+511,Chemistry Honors
+512,AP Chemistry
+514,Physics
+517,AP Physics B
+518,AP Physics C
+520,AP Physics 1
+521,AP Physics 2
+522,AP Physics C - Mechanics
+523,AP Physics C - Electricity and Magnetism
+527,Anatomy&Physiology Honors
+530,AP Biology
+540,Environmental Science
+545,AP Environmental Science
+556,Bioethics
+557,Zoology
+558,Forensic Science
+601,World History 1
+603,AP Human Geography
+605,World History 2
+606,United States History
+607,AP World History
+608,AP United States History
+626,AP Modern European History
+640,American Civics
+644,Modern East Asian Studies
+650,AP U. S. Government & Politics
+676,AP Comparative Government & Politics
+710,Entrepreneurship
+714,Economics 1
+716,AP Economics: Micro
+717,AP Economics: Macro
+727,Psychology
+728,Social and Organizational Psychology
+802,Introductory Music Performance
+806,Instrumental Instruction
+820,Small Ensembles
+830,Advanced Music Honors
+841,R & B Funk & Latin Concepts
+842,Music Business &Technology
+843,"Advanced Music, Business & Technology"
+844,"Music, Business, and Technology III"
+850,Advanced Music Performance
+851,Freshmen Chorus
+852,Chorus
+853,Advanced Chorus
+854,Independent Chorus
+855,Foundations of Art
+860,Drawing 1
+865,Drawing 2
+870,Painting 1
+877,Painting 2
+880,Ceramics 1
+883,Independent Ceramics
+885,Ceramics 2
+886,Advanced Ceramics 1
+890,Sculpture 1
+891,Sculpture 2
+892,Advanced Sculpture 1
+895,Art Portfolio 1
+900,Physical Fitness
+922,Prin. of Athletic Training
+925,Phys Ed/Aquatics 1
+1001,Introduction to Design and Technology
+1021,Administering Windows Server
+1023,Windows Server Infrastructure
+1029,Networking Design Internship
+1030,Introduction to Programming: Python
+1031,Java Programing
+1032,AP Computer Science A
+1033,AP Computer Science Principles
+1050,Introduction to Digital Design 
+1061,Advanced Multimedia Production WEXPtv
+1069,WEXPtv Media Design Internship
+1070,Web Design for Business
+1079,Web Design Internship
+1080,Print Design With Adobe InDesign
+1089,Digital Design Internship
+1090,Computer Aided Design
+1091,Advanced C.A.D.
+1092,Engineering Design
+1094,Principles of Engineering
+1095,Introduction to Robotics
+1170,Group Advisory 11
+1175,Group Advisory 12
+1176,College Counseling Seminar 12
+1177,Academic Support 1
+1178,Academic Support 2
+1179,Academic Support 3
+1180,Academic Support 4
+1197,Math Study Hall
+1001B,Information Literacy
+850X,Advanced Music Honors
+645,US Civil Rights
+670,United States History: 1960+
+1020,IT Professional Capstone (Honors)
+1022,Configuring Advanced Windows Server
+1060,Mobile Video Production with Adobe
+1071,Advanced Web Design w/ Dreamweaver
+1081,Advanced Visual Communication W/ Adobe
+262,Trigonometry and Statistics
+264,Statistical Analysis 
+799,Study Hall
+199,Jerry's Class
+218,Geometry Honors (Summer)
+226,AP Precalculus
+742,Data Analytics
+760,Intercultural Communication
+845,Music Business and Technology 1
+846,Music Business and Technology 2
+884,Ceramics 3
+1120,Group Advisory 10
+1121,Group Advisory 10
+780,Global Business  Capstone (Honors)
+848,Music Production Capstone (Honors)
+1099,Engineering  Capstone (Honors)
+746,Foundations of Law:21st Century Issues
+1068,Digital Media/Comm Capstone (Honors)
+795,Freshman Study Hall
+729,AP Psychology
+840,Honors Advanced Music
+847,Advanced Music Business and Technology
+1028,IT Professional Capstone (Honors)
+1210,Academic Support 1
+1220,Academic Support 2
+1230,Academic Support 3
+1240,Academic Support 4
+1109,Parking Lot
+1110,Group Advisory 9
+9901,Glaser Center Supervision
+9902,McShain Center Supervision
+9903,Flex Proctor
+9904,NHS Supervision
+9905,Open Gym
+9906,Computer Help Desk
+9907,Library Manager
+9908,Parking Lot Supervision
+9909,Locker Room Supervision
+9910,Technology Integration
+505L,Biology Honors Lab
+506L,Biology Lab
+530L,AP Biology Lab
+510L,Chemistry Lab
+511L,Chemistry Honors Lab
+512L,AP Chemistry Lab
+522L,AP Physics C - Mechanics Lab
+523L,AP Physics C - E and M Lab
+Soph HR,Sophomore Homeroom
+Junior HR,Junior Homeroom
+Senior HR,Senior Homeroom
+9911,Auditorium Student Supervision
+91001,Intro. to Information Sciences & Tech.
+9810,Advanced Music Studies
+91050,Digital Images w/ Adobe Photoshop
+91029,Network Management
+91030,Intro. to Programming: Visual Basic
+91069,Multimedia Management
+91089,Print Design Management
+91079,Website Management
+91020,Installing & Configuring Windows Server
+91051,Digital Imaging w/ Photoshop Online
+91081,Adv. Visual Communication using Adobe CC
